@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WishList.Model
+namespace WishList.Models
 {
     public class Item
     {
